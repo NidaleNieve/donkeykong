@@ -13,15 +13,13 @@ Höfundarnir eru Daníel og Leó
 ![IMG_20231002_160944](https://github.com/NidaleNieve/donkeykong/assets/62642672/d818e37e-7f85-4b1b-b1c4-b5d19066f86a)
 ![IMG_20231002_155934](https://github.com/NidaleNieve/donkeykong/assets/62642672/8f723a51-cc4c-45e1-b9d1-511add2fe806)
 
-## Ljósmynd af lóðunn
+## Ljósmynd af lóðun
 ![IMG_20231002_154845](https://github.com/NidaleNieve/donkeykong/assets/62642672/fb6d7b73-4a32-4545-bb34-7cefb8524f26)
 ![IMG_20231002_154929](https://github.com/NidaleNieve/donkeykong/assets/62642672/0a8d4e1f-0824-4d56-8ab9-745f8b521592)
 ![IMG_20231002_154849](https://github.com/NidaleNieve/donkeykong/assets/62642672/f160eb4b-9ac1-4117-998d-025dcfd2c29c)
 
 ## Mynband af okkur að spila spilið
-
 [Þetta er linkur](https://youtu.be/C6F_-i7GbiU)
-
 
 ## Kóði
 ```python
