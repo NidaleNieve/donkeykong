@@ -21,6 +21,8 @@ Höfundarnir eru Daníel og Leó
 ## Mynband af okkur að spila spilið
 [Þetta er linkur](https://youtu.be/C6F_-i7GbiU)
 
+[![video](https://github.com/NidaleNieve/donkeykong/assets/62642672/06ebe8b2-72c6-4748-9852-9b3cda951f48)](https://youtu.be/C6F_-i7GbiU)
+
 ## Kóði
 ```python
 from machine import Pin, PWM
