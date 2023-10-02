@@ -10,16 +10,13 @@ Höfundarnir eru Daníel og Leó
 ![BoardGame Final](https://github.com/NidaleNieve/donkeykong/assets/62642672/06542175-10d3-49e1-aa3a-68c5db186e89)
 
 ## Ljósmynd af borðspilinu
-
-![inní](https://github.com/NidaleNieve/donkeykong/assets/62642672/c809f128-e7f9-4703-8e00-62a3d926a9d4)
-
-![utan](https://github.com/NidaleNieve/donkeykong/assets/62642672/7df25e81-dc0a-401a-9173-4529c54fa47a)
+![IMG_20231002_160944](https://github.com/NidaleNieve/donkeykong/assets/62642672/d818e37e-7f85-4b1b-b1c4-b5d19066f86a)
+![IMG_20231002_155934](https://github.com/NidaleNieve/donkeykong/assets/62642672/8f723a51-cc4c-45e1-b9d1-511add2fe806)
 
 ## Ljósmynd af lóðunn
-
-![lóðun vírar](https://github.com/NidaleNieve/donkeykong/assets/62642672/1caed11a-09ac-497b-9138-bc9556f6b440)
-![lóðun front](https://github.com/NidaleNieve/donkeykong/assets/62642672/e80ee339-2273-423d-aaf2-4ea9c0619e94)
-![Lóðun bak](https://github.com/NidaleNieve/donkeykong/assets/62642672/8fd2d305-dfcb-4483-8759-f70776a1da81)
+![IMG_20231002_154845](https://github.com/NidaleNieve/donkeykong/assets/62642672/fb6d7b73-4a32-4545-bb34-7cefb8524f26)
+![IMG_20231002_154929](https://github.com/NidaleNieve/donkeykong/assets/62642672/0a8d4e1f-0824-4d56-8ab9-745f8b521592)
+![IMG_20231002_154849](https://github.com/NidaleNieve/donkeykong/assets/62642672/f160eb4b-9ac1-4117-998d-025dcfd2c29c)
 
 ## Mynband af okkur að spila spilið
 
