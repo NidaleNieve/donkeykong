@@ -6,8 +6,25 @@ Ef að öll ljósin og ljósið á takkanum blikka þá er það special og mað
 # Höfundar
 Höfundarnir eru Daníel og Leó
 
-## hönnunar teikningin
+## Hönnunar teikningin
 ![BoardGame Final](https://github.com/NidaleNieve/donkeykong/assets/62642672/06542175-10d3-49e1-aa3a-68c5db186e89)
+
+## Ljósmynd af borðspilinu
+
+![inní](https://github.com/NidaleNieve/donkeykong/assets/62642672/c809f128-e7f9-4703-8e00-62a3d926a9d4)
+
+![utan](https://github.com/NidaleNieve/donkeykong/assets/62642672/7df25e81-dc0a-401a-9173-4529c54fa47a)
+
+## Ljósmynd af lóðunn
+
+![lóðun vírar](https://github.com/NidaleNieve/donkeykong/assets/62642672/1caed11a-09ac-497b-9138-bc9556f6b440)
+![lóðun front](https://github.com/NidaleNieve/donkeykong/assets/62642672/e80ee339-2273-423d-aaf2-4ea9c0619e94)
+![Lóðun bak](https://github.com/NidaleNieve/donkeykong/assets/62642672/8fd2d305-dfcb-4483-8759-f70776a1da81)
+
+## Mynband af okkur að spila spilið
+
+[Þetta er linkur](https://youtu.be/C6F_-i7GbiU)
+
 
 ## Kóði
 ```python
