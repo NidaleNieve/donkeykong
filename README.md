@@ -6,4 +6,4 @@ Special, ef að ljósið á takkanum blikkar þá ferðu að næsta stiga og fer
 Höfundarnir eru Leó og Daníel
 
 ## hönnunar teikningin
-![Uploading BoardGame.svg…]()
+![BoardGame Final](https://github.com/NidaleNieve/donkeykong/assets/62642672/06542175-10d3-49e1-aa3a-68c5db186e89)
